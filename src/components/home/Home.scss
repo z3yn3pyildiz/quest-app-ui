@@ -1,5 +1,8 @@
 .container{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f5ff;
+    padding: 1vh;
 }
